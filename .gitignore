@@ -1,0 +1,22 @@
+.DS_Store
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
+
+# Next.js build output
+.next
+out
+
+# Firebase cache directory
+.firebase/
+
+# Vite files
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+.vite/
+
+# Dependency directories
+node_modules/
+jspm_packages/
