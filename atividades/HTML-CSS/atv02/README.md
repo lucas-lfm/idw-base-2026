@@ -2,8 +2,8 @@
 
 ## Roteiro da Prática 02
 
-[Acese aqui](../../../materiais/slides/) o material da disciplina.
-
+> [Acese aqui](../../../materiais/slides/) o material da disciplina para estudo.    
+> 
 > Materiais que abordam conteúdos diretamente utilizados nesta prática:
 > - CSS básico e Tipografia CSS: [slide 03](./../../../materiais/slides/IDW-03_CSS-INTRO.pdf)
 > - HTML semântico: [slide 04](./../../../materiais/slides/IDW-04_HTML-P2.pdf)
