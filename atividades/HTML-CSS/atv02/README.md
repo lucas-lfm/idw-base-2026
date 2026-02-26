@@ -237,3 +237,17 @@
         font-size: 0.9rem;
     }
     ```
+
+---
+
+### **Passo 6: Personalizações Finais**
+
+- Agora que temos a estrutura básica da página, sinta-se à vontade para personalizá-la como preferir, aplicando novas propriedades CSS, mudando cores, fontes, etc. Use a criatividade!
+
+- Experimente adicionar efeitos de hover nos links, sombras nos elementos ou até mesmo animações para tornar a página mais interativa.
+
+- 🚨 Evite uso de IA nesse momento, concentre-se em aplicar os conceitos aprendidos e explorar novos conceitos relacionados, garantindo entendimento do que está aplicando no código.
+
+> Caso seja identificado possível uso de IA, o professor reservará o direito de realizar arguição oral (você deverá explicar o que foi feito).
+
+> **Dica:** consulte os slides da disciplina para relembrar as propriedades CSS e seus efeitos, e também use a [MDN Web Docs](https://developer.mozilla.org/pt-BR/) para pesquisar novas propriedades e tirar dúvidas.
